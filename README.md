@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @apurbatg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Heyy I m apurba (noob)
+CONTACT ME - @sta_noelle (telegram)❤️❤️
 
-<!---
+<!--
 apurbatg/apurbatg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
